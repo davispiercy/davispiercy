@@ -1,10 +1,10 @@
 #LinkedIn
 #https://www.linkedin.com/in/{{LinkedInUsername}}/
-linkdin_username: davispiercy/
+linkdin_username: davis-piercy/
 
 #GitHub
 #https://github.com/{{GitHubUsername}}
-github_username: davis-piercy/
+github_username: davispiercy/
 
 #https://github.com/{{GitHubUsername}}/{{GitHubRepo}}
 github_repo: davispiercy/
